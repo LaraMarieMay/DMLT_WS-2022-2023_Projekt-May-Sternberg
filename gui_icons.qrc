@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="gui_icons">
+    <file>FH_Aachen_Logo.png</file>
+    <file>LED_an.png</file>
+    <file>LED_aus.png</file>
+    <file>Waschmaschine.png</file>
+  </qresource>
+</RCC>
